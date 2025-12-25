@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Jin Spa Houston - Authentic Asian Wellness",
+  "description": "A high-end, responsive website for Jin Spa in Houston, featuring professional Asian massage services, elegant Zen aesthetics, and easy booking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
